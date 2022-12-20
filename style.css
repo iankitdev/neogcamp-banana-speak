@@ -1,5 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Bubblegum+Sans&display=swap');
+
+
+body{
+    font-family: 'Bubblegum Sans', cursive;
+    margin: 1rem;
+}
+
+.output-header{
+    font-size: larger;
+}
+
+#output{
+    border: 1px solid black;
+    width: 80%;
+    height: 10vh;
+    margin: 1rem;
+    display: block;
+    padding: 1rem;
+
+}
+
 .text-area{
-    width : 90%;
+    width : 80%;
     height : 10vh;
     margin: 1rem;
     display: block;
