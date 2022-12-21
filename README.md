@@ -1,7 +1,6 @@
+# Minion Speak Translation App
 
-# Phineas & Ferb Fun Translation App
-
-Its a fun English to Phineas & Ferb Latin translation website built with HTML5, CSS3 and vanillaJS.
+Its a fun English to Banana/Minion language translation website built with HTML5, CSS3 and vanillaJS.
 
 
 ## Technologies used :
