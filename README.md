@@ -1,5 +1,16 @@
-## Its a fun English to Banana/Minion Language translation website built with HTML5, CSS3 and vanillaJS.
+# Minion Speak Translation App
 
-### Building this we used API fetching
+Its a fun English to Banana/Minion language translation website built with HTML5, CSS3 and vanillaJS.
 
-## Have a Look!
+
+## Technologies used :
+
+* HTML5
+* CSS3
+* VannilaJS
+* API Fetching
+* Netlify for Hosting
+## Authors
+
+- [@iankitdev](https://www.github.com/iankitdev)
+
